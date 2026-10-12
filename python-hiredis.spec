@@ -1,6 +1,6 @@
 Name:		python-hiredis
 Version:	3.3.1
-Release:	1
+Release:	2
 Summary:	Python wrapper for hiredis
 License:	MIT
 Group:		Development/Python
